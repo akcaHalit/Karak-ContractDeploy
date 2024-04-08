@@ -13,7 +13,8 @@
 
 > Create a new file and name it `karak.sol`.
 
-<img width="366" alt="image" src="https://github.com/darthlyrex/Karak-ContractDeploy/assets/165167816/2ce07353-b823-4ff6-b02c-606d49a535ec">
+<img width="366" alt="1" src="https://github.com/akcaHalit/Karak-ContractDeploy/assets/103420587/1e410c34-7c57-4cb8-b0a2-aac75eeca034">
+
 
 #
 
@@ -33,7 +34,8 @@ contract HelloWorld {
 
 > Choose commit version 0.8.13 from the Solidity Compiler section and compile.
 
-<img width="366" alt="image" src="https://github.com/darthlyrex/Karak-ContractDeploy/assets/165167816/493f9129-6d3f-4779-91b2-6a1670bd6409">
+<img width="368" alt="2" src="https://github.com/akcaHalit/Karak-ContractDeploy/assets/103420587/06eecec0-2480-455d-bd23-0ff216d51146">
+
 
 #
 
@@ -41,7 +43,8 @@ contract HelloWorld {
 
 > Select `Metamaskı` for `Enviroment` from the `Deploy & Run` section and deploy.
 
-<img width="367" alt="image" src="https://github.com/darthlyrex/Karak-ContractDeploy/assets/165167816/683ade4e-cfa3-4feb-a431-10aa90e93f7a">
+<img width="372" alt="3" src="https://github.com/akcaHalit/Karak-ContractDeploy/assets/103420587/304f3ea7-1d37-47fe-b683-c91d48d7fb86">
+
 
 #
 
@@ -51,7 +54,7 @@ contract HelloWorld {
 
 > Put them into: 1 TX Hash - 2 Wallet Adres - 3 Contract address then claim the reward.
 
-<img width="977" alt="Transaction" src="https://github.com/darthlyrex/Karak-ContractDeploy/assets/165167816/15df2cab-c0e0-426d-9039-f84d7c7e0619">
+<img width="977" alt="Transaction" src="https://github.com/akcaHalit/Karak-ContractDeploy/assets/103420587/6e1252df-5764-4539-8556-6de8cabe4066">
 
 > That's all.
 
