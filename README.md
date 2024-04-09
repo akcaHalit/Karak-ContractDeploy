@@ -1,4 +1,4 @@
-    Learnt from Rues.
+--- Learnt from Rues     
 # Karak-Contract Deploy
 
 > In Karak, I deployed this contract and received 800 EXP.
